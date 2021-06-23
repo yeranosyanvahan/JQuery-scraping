@@ -12,4 +12,4 @@ Browser.jquery()
 Browser('return 3')
 ```
 <br/>
-Take a look at the Example of how to scrape amazon web page.
+Take a look at the Example of how to <a href='https://github.com/yeranosyanvahan/JQuery-scraping/blob/main/Amazon-Scrape.ipynb'>scrape amazon web page</a>.
