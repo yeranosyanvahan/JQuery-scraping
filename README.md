@@ -9,6 +9,7 @@ You are set up, try to run basic code to see if it is working. <br/>
 ```from Browser import BROWSER
 Browser=BROWSER()
 Browser.jquery()
-Browser('return 3')```
+Browser('return 3')
+```
 <br/>
 Take a look at the Example of how to scrape amazon web page.
