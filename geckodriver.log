@@ -1,0 +1,273 @@
+1625042177276	geckodriver	INFO	Listening on 127.0.0.1:37229
+1625042178290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWBfmVb"
+1625042183132	Marionette	INFO	Listening on port 45909
+1625042183224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625042256195	Marionette	INFO	Stopped listening on port 45909
+1625042324200	geckodriver	INFO	Listening on 127.0.0.1:36859
+1625042325213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemdAmUa"
+1625042329648	Marionette	INFO	Listening on port 39105
+1625042329736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625044018801	geckodriver	INFO	Listening on 127.0.0.1:35751
+1625044019814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM89zxh"
+1625044024166	Marionette	INFO	Listening on port 35583
+1625044024241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625044027232	Marionette	INFO	Stopped listening on port 39105
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1625044172918	geckodriver	INFO	Listening on 127.0.0.1:41793
+1625044172929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebSn9jW"
+1625044177933	Marionette	INFO	Listening on port 42243
+1625044177958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625044187427	Marionette	INFO	Stopped listening on port 42243
+1625044290812	Marionette	INFO	Stopped listening on port 35583
+1625044293723	geckodriver	INFO	Listening on 127.0.0.1:53379
+1625044293732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFqCjja"
+1625044298592	Marionette	INFO	Listening on port 40539
+1625044298658	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/webconsole/components/Input/JSTerm.js, line 983: TypeError: matchProp is null
+JavaScript error: resource://devtools/client/webconsole/components/Input/JSTerm.js, line 983: TypeError: matchProp is null
+JavaScript error: resource://devtools/client/webconsole/components/Input/JSTerm.js, line 983: TypeError: matchProp is null
+JavaScript error: resource://devtools/client/webconsole/components/Input/JSTerm.js, line 983: TypeError: matchProp is null
+1625044907021	geckodriver	INFO	Listening on 127.0.0.1:58533
+1625044908032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMHbZAZ"
+1625044912288	Marionette	INFO	Listening on port 44169
+1625044912359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625044919334	Marionette	INFO	Stopped listening on port 40539
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1625045015411	Marionette	INFO	Stopped listening on port 44169
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+1625045018155	geckodriver	INFO	Listening on 127.0.0.1:57175
+1625045018165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0eQxq2"
+1625045022748	Marionette	INFO	Listening on port 41067
+1625045022795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625045044930	Marionette	INFO	Stopped listening on port 41067
+1625045050383	geckodriver	INFO	Listening on 127.0.0.1:60923
+1625045050394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilere63Xl"
+1625045054789	Marionette	INFO	Listening on port 46655
+1625045054822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625045086558	Marionette	INFO	Stopped listening on port 46655
+1625045093589	geckodriver	INFO	Listening on 127.0.0.1:58671
+1625045094607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJvDqfo"
+1625045099895	Marionette	INFO	Listening on port 41061
+1625045099984	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1625045451357	geckodriver	INFO	Listening on 127.0.0.1:35677
+1625045452367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3AANc7"
+1625045456997	Marionette	INFO	Listening on port 41481
+1625045457104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625045460281	Marionette	INFO	Stopped listening on port 41061
+1625045488438	Marionette	INFO	Stopped listening on port 41481
+1625045493951	geckodriver	INFO	Listening on 127.0.0.1:34705
+1625045494965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevuFk1t"
+1625045499717	Marionette	INFO	Listening on port 36937
+1625045499798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625045527126	Marionette	INFO	Stopped listening on port 36937
+1625045531524	geckodriver	INFO	Listening on 127.0.0.1:39333
+1625045532541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFlZbM5"
+1625045537045	Marionette	INFO	Listening on port 45775
+1625045537070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625045630042	geckodriver	INFO	Listening on 127.0.0.1:55207
+1625045631052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYLeAUE"
+1625045635697	Marionette	INFO	Listening on port 44297
+1625045635778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625045640003	Marionette	INFO	Stopped listening on port 45775
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: https://cdn-client.medium.com/lite/static/js/main.79eb8882.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: https://cdn-client.medium.com/lite/static/js/main.79eb8882.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: https://cdn-client.medium.com/lite/static/js/main.79eb8882.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: https://cdn-client.medium.com/lite/static/js/main.79eb8882.js, line 1: NS_ERROR_UNEXPECTED
+JavaScript error: https://cdn-client.medium.com/lite/static/js/main.79eb8882.js, line 1: NS_ERROR_UNEXPECTED
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1625046016277	geckodriver	INFO	Listening on 127.0.0.1:57277
+1625046017292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqBtQkq"
+1625046021797	Marionette	INFO	Listening on port 33415
+1625046021816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625046106321	geckodriver	INFO	Listening on 127.0.0.1:51219
+1625046107335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex2T70n"
+1625046111014	Marionette	INFO	Stopped listening on port 44297
+1625046112467	Marionette	INFO	Stopped listening on port 33415
+1625046113751	Marionette	INFO	Listening on port 45077
+1625046113791	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1625046367000	geckodriver	INFO	Listening on 127.0.0.1:37397
+1625046368015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7JmcyS"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625046371708	Marionette	INFO	Stopped listening on port 45077
+1625046373009	Marionette	INFO	Listening on port 34851
+1625046373055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625046406668	Marionette	INFO	Stopped listening on port 34851
+1625046410609	geckodriver	INFO	Listening on 127.0.0.1:40829
+1625046411618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesiQGBH"
+1625046415979	Marionette	INFO	Listening on port 40293
+1625046416034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625046445308	Marionette	INFO	Stopped listening on port 40293
+1625046449586	geckodriver	INFO	Listening on 127.0.0.1:35343
+1625046450602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSUic19"
+1625046455748	Marionette	INFO	Listening on port 38949
+1625046455831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625046716726	geckodriver	INFO	Listening on 127.0.0.1:35421
+1625046717741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHWFfKU"
+1625046722404	Marionette	INFO	Listening on port 46235
+1625046722464	Marionette	WARN	TLS certificate errors will be ignored for this session
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               1625047305771	geckodriver	INFO	Listening on 127.0.0.1:57835
+1625047306760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQrxvyF"
+1625047311420	Marionette	INFO	Listening on port 36909
+1625047311481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625047344665	Marionette	INFO	Stopped listening on port 36909
+1625047382129	geckodriver	INFO	Listening on 127.0.0.1:51023
+1625047383146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9sWOEy"
+1625047387596	Marionette	INFO	Listening on port 36449
+1625047387669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625047390661	Marionette	INFO	Stopped listening on port 36449
+1625047399180	geckodriver	INFO	Listening on 127.0.0.1:53553
+1625047400194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCG6AfY"
+1625047404691	Marionette	INFO	Listening on port 34787
+1625047404716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625047415017	Marionette	INFO	Stopped listening on port 34787
+1625047420451	geckodriver	INFO	Listening on 127.0.0.1:36655
+1625047420470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile00K8Go"
+1625047424672	Marionette	INFO	Listening on port 39273
+1625047424698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625047494273	geckodriver	INFO	Listening on 127.0.0.1:33117
+1625047495288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM8D72g"
+1625047499255	Marionette	INFO	Listening on port 46871
+1625047499307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625047501938	Marionette	INFO	Stopped listening on port 39273
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1625047680993	geckodriver	INFO	Listening on 127.0.0.1:60269
+1625047681657	Marionette	INFO	Stopped listening on port 46871
+1625047682002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqUyCuA"
+1625047686109	Marionette	INFO	Listening on port 45359
+1625047686181	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1625047931389	geckodriver	INFO	Listening on 127.0.0.1:50351
+1625047932403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHYwris"
+1625047936455	Marionette	INFO	Listening on port 45703
+1625047936520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048077794	geckodriver	INFO	Listening on 127.0.0.1:54635
+1625048078805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOWDGGC"
+1625048079484	Marionette	INFO	Stopped listening on port 45703
+1625048084104	Marionette	INFO	Listening on port 39683
+1625048084155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048105387	geckodriver	INFO	Listening on 127.0.0.1:41169
+1625048106400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyN2WVd"
+1625048111144	Marionette	INFO	Listening on port 45063
+1625048111221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048114432	Marionette	INFO	Stopped listening on port 39683
+1625048114859	Marionette	INFO	Stopped listening on port 45359
+1625048118106	Marionette	INFO	Stopped listening on port 45063
+1625048159442	geckodriver	INFO	Listening on 127.0.0.1:49617
+1625048160450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSnrEu3"
+1625048165922	Marionette	INFO	Listening on port 34627
+1625048165988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048169083	Marionette	INFO	Stopped listening on port 34627
+1625048173123	geckodriver	INFO	Listening on 127.0.0.1:50027
+1625048174137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9hu0ei"
+1625048178443	Marionette	INFO	Listening on port 33755
+1625048178464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048186371	Marionette	INFO	Stopped listening on port 33755
+1625048209299	geckodriver	INFO	Listening on 127.0.0.1:45085
+1625048210316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled7Fwm5"
+1625048214626	Marionette	INFO	Listening on port 36129
+1625048214640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048383633	Marionette	INFO	Stopped listening on port 36129
+1625048385723	geckodriver	INFO	Listening on 127.0.0.1:43313
+1625048385731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecjtaaI"
+1625048389982	Marionette	INFO	Listening on port 35319
+1625048390053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048455087	geckodriver	INFO	Listening on 127.0.0.1:50343
+1625048456103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH3Eckt"
+1625048460395	Marionette	INFO	Listening on port 42295
+1625048460425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048462433	Marionette	INFO	Stopped listening on port 35319
+1625048707643	geckodriver	INFO	Listening on 127.0.0.1:43155
+1625048707653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew7LFy4"
+1625048711901	Marionette	INFO	Listening on port 46379
+1625048711983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048732769	geckodriver	INFO	Listening on 127.0.0.1:48475
+1625048733780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqw0hkl"
+1625048738191	Marionette	INFO	Listening on port 42325
+1625048738209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048754891	Marionette	INFO	Stopped listening on port 46379
+1625048762727	Marionette	INFO	Stopped listening on port 42325
+1625048791000	geckodriver	INFO	Listening on 127.0.0.1:59217
+1625048791019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDNSLdR"
+*** You are running in headless mode.
+1625048794991	Marionette	INFO	Listening on port 33663
+1625048795043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048815966	geckodriver	INFO	Listening on 127.0.0.1:38977
+1625048816977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileroCuZ4"
+*** You are running in headless mode.
+1625048819045	Marionette	INFO	Stopped listening on port 42295
+1625048822590	Marionette	INFO	Listening on port 38411
+1625048822613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048833172	geckodriver	INFO	Listening on 127.0.0.1:60169
+1625048833186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7zHUnh"
+*** You are running in headless mode.
+1625048836993	Marionette	INFO	Listening on port 43391
+1625048837020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048852983	geckodriver	INFO	Listening on 127.0.0.1:50871
+1625048853999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIm3wHm"
+1625048857990	Marionette	INFO	Listening on port 40999
+1625048858016	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1625048863860	Marionette	INFO	Stopped listening on port 40999
+1625048885710	geckodriver	INFO	Listening on 127.0.0.1:56405
+1625048886722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSHYKoJ"
+*** You are running in headless mode.
+1625048890881	Marionette	INFO	Listening on port 38655
+1625048890937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048956481	geckodriver	INFO	Listening on 127.0.0.1:47041
+1625048957495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebah62P"
+*** You are running in headless mode.
+1625048960944	Marionette	INFO	Listening on port 34573
+1625048961019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048967909	geckodriver	INFO	Listening on 127.0.0.1:37351
+1625048967924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehQYko9"
+*** You are running in headless mode.
+1625048971463	Marionette	INFO	Listening on port 36143
+1625048971566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625048999413	geckodriver	INFO	Listening on 127.0.0.1:46519
+1625049000427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7bnVsY"
+*** You are running in headless mode.
+1625049003921	Marionette	INFO	Listening on port 43917
+1625049003947	Marionette	WARN	TLS certificate errors will be ignored for this session
