@@ -343,3 +343,817 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1635100687890	geckodriver	INFO	Listening on 127.0.0.1:23014
+1635100690930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileCv5HiD"
+1635100691310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileCv5HiD\\search.json.mozlz4", (void 0)))
+1635100693671	Marionette	INFO	Listening on port 23038
+1635100694101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/MiMBLUedHR2.js?_nc_x=Ij3Wp8lg5Kz, line 13: TypeError: Not in fullscreen mode
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+[Child 10440, MediaDecoderStateMachine #1] WARNING: 15aab678660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+[Child 5600, MediaDecoderStateMachine #1] WARNING: 29ca3b86820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:819:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:704:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:450:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+1635101635448	Marionette	INFO	Stopped listening on port 23038
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635101639217	geckodriver	INFO	Listening on 127.0.0.1:27460
+1635101642301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileXb96Ey"
+1635101642634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileXb96Ey\\search.json.mozlz4", (void 0)))
+1635101644548	Marionette	INFO	Listening on port 27481
+1635101644988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "The supplied node is incorrect or has an incorrect ancestor for this operation."
+console.error: ({})
+console.error: "Could not get the list of font families" (new Error("Protocol error (InvalidNodeTypeError): The supplied node is incorrect or has an incorrect ancestor for this operation. from: server0.conn0.windowGlobal6442450945/pagestyle26 (resource://devtools/server/actors/page-style.js:377:0)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: https://apps.sascdn.com/rtb/transparency/handler/st.min.html?%7b%22bid%22%3a%22301566858106805013%22%2c%22adomain%22%3a%22vbet.am%22%2c%22page%22%3a%22932545%22%2c%22format%22%3a%2262362%22%2c%22crid%22%3a%22364_101971%22%2c%22dsp%22%3a%22346%22%2c%22buyer%22%3a%22137874%22%2c%22cid%22%3a%22101971%22%2c%22adid%22%3a%22364_101971%22%2c%22hash%22%3a%22-8695728280024158350%22%7d, line 1: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 4933 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 3999 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 1327 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 3825 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 5889 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 2123 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 4136 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+[Child 14508, MediaDecoderStateMachine #1] WARNING: 270a14b7f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635102249260	Marionette	INFO	Stopped listening on port 27481
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635102253036	geckodriver	INFO	Listening on 127.0.0.1:23639
+1635102256099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofilepRpXi0"
+1635102256450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofilepRpXi0\\search.json.mozlz4", (void 0)))
+1635102258495	Marionette	INFO	Listening on port 23657
+1635102258792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "The supplied node is incorrect or has an incorrect ancestor for this operation."
+console.error: ({})
+console.error: "Could not get the list of font families" (new Error("Protocol error (InvalidNodeTypeError): The supplied node is incorrect or has an incorrect ancestor for this operation. from: server0.conn0.windowGlobal6442450945/pagestyle26 (resource://devtools/server/actors/page-style.js:377:0)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238, line 10: Script terminated by timeout at:
+D@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238:10:8330
+xo.prototype.B@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238:10:15028
+Dj@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238:10:67058
+JM.prototype.j@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238:18:78580
+b/<@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238:10:59803
+jl@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238:6:46558
+ll/this.next@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238:6:46850
+f@https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021101801.js?31063238:6:60364
+
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9107540490929984&output=html&h=90&slotname=4302666817&adk=1876392324&adf=2879770835&pi=t.ma~as.4302666817&w=728&lmt=1635102653&rafmt=12&psa=0&format=728x90&url=https%3A%2F%2Fwww.tutorialrepublic.com%2Fjavascript-tutorial%2Fjavascript-json-parsing.php&flash=0&wgl=1&dt=1635102652390&bpp=4&bdt=1300&idt=409&shv=r20211020&mjsv=m202110180101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D8206fe4fdfb4389a-2251fd91feca0029%3AT%3D1635102652%3ART%3D1635102652%3AS%3DALNI_Mb8r4MbdnSoBuq7_8_agc7VgdTUFg&correlator=4703056021138&frm=20&pv=2&ga_vid=1294897546.1635102652&ga_sid=1635102653&ga_hid=874904156&ga_fc=1&u_tz=240&u_his=4&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_sd=1&adx=583&ady=148&biw=1903&bih=955&scr_x=0&scr_y=408&eid=42530888%2C31062422%2C31062938%2C31063229&oid=2&pvsid=2778610927802758&pem=821&ref=https%3A%2F%2Fwww.google.com%2F&eae=0&fc=896&brdim=-8%2C-8%2C-8%2C-8%2C1920%2C0%2C1936%2C1056%2C1920%2C955&vis=1&rsz=o%7Co%7CpoeE%7C&abl=NS&pfx=0&fu=256&bc=31&ifi=1&uci=a!1&fsb=1&xpc=UsfUNSzWBp&p=https%3A//www.tutorialrepublic.com&dtd=702, line 1: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 5352 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 5756 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 266 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 3237 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1635102704252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 4508 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Zz7DT35LXmuokobBJJC8eUu-TFeGwi-w65YEXeY0QRI.js line 1 > eval line 3042 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1635102743760&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=rzzwriiizp4p&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+[Child 16564, MediaDecoderStateMachine #1] WARNING: 23eda498900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+[Child 16564, MediaDecoderStateMachine #1] WARNING: 23ee4d452e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16564, MediaDecoderStateMachine #1] WARNING: 23ee8071120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16564, MediaDecoderStateMachine #1] WARNING: 23eda498040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+[Child 16564, MediaDecoderStateMachine #1] WARNING: 23ed98a9660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+[Child 16564, MediaDecoderStateMachine #1] WARNING: 23ee2670f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+[Child 16564, MediaDecoderStateMachine #1] WARNING: 23ee1fbe3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450945/accessiblewalker27, type unhighlight failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nunhighlightAccessible@resource://devtools/client/accessibility/accessibility-proxy.js:382:27\nunhighlight@resource://devtools/client/accessibility/components/AccessibilityRow.js:243:16\nonMouseOut@resource://devtools/client/accessibility/components/AccessibilityRow.js:295:30\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:442:9\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450945/accessiblewalker27, type highlightAccessible failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhighlightAccessible@resource://devtools/client/accessibility/accessibility-proxy.js:362:8\nhighlight@resource://devtools/client/accessibility/components/AccessibilityRow.js:238:16\nonMouseOver@resource://devtools/client/accessibility/components/AccessibilityRow.js:294:31\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:431:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:507:21
+
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:431:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:507:21
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 53ms)
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/Hti.Armenia/, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 1f6b16424a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn1.windowGlobal6442450946/accessible332 from: server0.conn1.windowGlobal6442450946/accessible332", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn1.windowGlobal6442450946/accessible332 from: server0.conn1.windowGlobal6442450946/accessible332", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn1.windowGlobal6442450946/accessible332 from: server0.conn1.windowGlobal6442450946/accessible332", "resource://devtools/shared/protocol/Front.js", 365))
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 1f6a495be40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 1f6a5dce740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yj/l/0,cross/IjYhnmH9a-5.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y2/l/0,cross/NsslUOeDyMk.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/UWbvoNJ_GJw.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/JFbe0WWFs2s.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yV/l/0,cross/KQN9gRJBI8O.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yq/l/0,cross/aZz5Abql8Xc.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yz/l/0,cross/gWGld3AAQ2m.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yN/l/0,cross/YeJXQc3p8Mi.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yu/l/0,cross/WfalA4mERyG.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yE/l/0,cross/EcZyq08qXq-.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yN/l/0,cross/zO-KaRqhF_n.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yK/l/0,cross/r8AChRHrxL5.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/TRoTE4qRPzK.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yg/l/0,cross/ooNa_8vKdLA.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y5/l/0,cross/HIvnLT2U2R_.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yq/l/0,cross/GQQC3w8PgLb.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/DYtlxMKHNXR.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yP/l/0,cross/ew6MRiwP8EC.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/_EbdNj_8GJ2.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yI/l/0,cross/3HH-W9H0OwF.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/eJgmYIzPYAA.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yv/l/0,cross/n8cJ5JYfQ4D.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y1/l/0,cross/b91K5hCC6bl.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/-4NyMrAERcS.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yt/l/0,cross/9lYKr59oMHK.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y5/l/0,cross/JmYTSEzcEzi.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635103465137	Marionette	INFO	Stopped listening on port 23657
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 1376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635103472292	geckodriver	INFO	Listening on 127.0.0.1:4303
+1635103475369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofilepmJV3Q"
+1635103475696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofilepmJV3Q\\search.json.mozlz4", (void 0)))
+1635103477546	Marionette	INFO	Listening on port 4329
+1635103478052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635103501857	Marionette	INFO	Stopped listening on port 4329
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+N	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 2872e809c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 2872e077c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 2872e59f200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 2872e59fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 28731505120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 287206a3ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 2872e59fe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible261 from: server0.conn0.windowGlobal6442450945/accessible261", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching accessible details: " "server0.conn0.windowGlobal6442450945/accessible261" (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible261 from: server0.conn0.windowGlobal6442450945/accessible261", "resource://devtools/shared/protocol/Front.js", 365))
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 28731505120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16316, MediaDecoderStateMachine #1] WARNING: 287319a0ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+console.warn: "Error fetching accessible details: " "server0.conn0.windowGlobal6442450945/accessible332" (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible332 from: server0.conn0.windowGlobal6442450945/accessible332", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching accessible details: " "server0.conn0.windowGlobal6442450945/accessible332" (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible332 from: server0.conn0.windowGlobal6442450945/accessible332", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching accessible details: " "server0.conn0.windowGlobal6442450945/accessible412" (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching children: " (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible412 from: server0.conn0.windowGlobal6442450945/accessible412", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "Error fetching accessible details: " "server0.conn0.windowGlobal6442450945/accessible332" (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.windowGlobal6442450945/accessible332 from: server0.conn0.windowGlobal6442450945/accessible332", "resource://devtools/shared/protocol/Front.js", 365))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 16316, MediaDecoderStateMachine #3] WARNING: 2873b2cb040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16316, MediaDecoderStateMachine #3] WARNING: 287319a0120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 49ms)
+1635104513080	Marionette	INFO	Stopped listening on port 4470
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635104521015	geckodriver	INFO	Listening on 127.0.0.1:8984
+1635104524096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileV1F706"
+1635104524415	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileV1F706\\search.json.mozlz4", (void 0)))
+1635104526469	Marionette	INFO	Listening on port 9005
+1635104526775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "The supplied node is incorrect or has an incorrect ancestor for this operation."
+console.error: ({})
+console.error: "Could not get the list of font families" (new Error("Protocol error (InvalidNodeTypeError): The supplied node is incorrect or has an incorrect ancestor for this operation. from: server0.conn0.windowGlobal6442450945/pagestyle26 (resource://devtools/server/actors/page-style.js:377:0)", "resource://devtools/shared/protocol/Front.js", 365))
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177bcdf7580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177bc8022e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/pg/Hti.Armenia/posts/, line 1: SyntaxError: unexpected token: ':'
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c86a2820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c2feeba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177bcf64c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177b9e5f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c80bf040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c80bf580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c80bf040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c80bfac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c80bfd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c72cdac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177b39a7c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:819:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:704:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:819:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:704:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177c23863c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16792, MediaDecoderStateMachine #1] WARNING: 177b39a7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/client/inspector/grids/grid-inspector.js, line 101: TypeError: this.inspector is null
+[Child 18328, MediaDecoderStateMachine #1] WARNING: 1b3898fdf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iRbe4/yb/l/en_US/4QLls1zBN8P.js?_nc_x=Ij3Wp8lg5Kz, line 140: unreachable code after return statement
+[Child 18328, MediaDecoderStateMachine #1] WARNING: 1b383d5d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yj/l/0,cross/IjYhnmH9a-5.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y2/l/0,cross/NsslUOeDyMk.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/UWbvoNJ_GJw.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/JFbe0WWFs2s.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yV/l/0,cross/KQN9gRJBI8O.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yq/l/0,cross/aZz5Abql8Xc.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yz/l/0,cross/gWGld3AAQ2m.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yN/l/0,cross/YeJXQc3p8Mi.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yu/l/0,cross/WfalA4mERyG.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yE/l/0,cross/EcZyq08qXq-.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yN/l/0,cross/zO-KaRqhF_n.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yK/l/0,cross/r8AChRHrxL5.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/TRoTE4qRPzK.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y5/l/0,cross/HIvnLT2U2R_.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yg/l/0,cross/ooNa_8vKdLA.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yq/l/0,cross/GQQC3w8PgLb.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/DYtlxMKHNXR.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yP/l/0,cross/ew6MRiwP8EC.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/_EbdNj_8GJ2.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yI/l/0,cross/3HH-W9H0OwF.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/eJgmYIzPYAA.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yv/l/0,cross/n8cJ5JYfQ4D.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y1/l/0,cross/b91K5hCC6bl.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/-4NyMrAERcS.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yt/l/0,cross/9lYKr59oMHK.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y5/l/0,cross/JmYTSEzcEzi.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:431:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:507:21
+
+console.error: 
+  InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:431:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+_getOrCreateActor@resource://devtools/server/devtools-server-connection.js:217:22
+onPacket@resource://devtools/server/devtools-server-connection.js:362:24
+_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18
+emit@resource://gre/modules/EventEmitter.jsm:160:20
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:507:21
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+1635107544268	Marionette	INFO	Stopped listening on port 9005
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635107551216	geckodriver	INFO	Listening on 127.0.0.1:15124
+1635107554268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileXNkKmC"
+1635107554611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileXNkKmC\\search.json.mozlz4", (void 0)))
+1635107556640	Marionette	INFO	Listening on port 15144
+1635107556928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yj/l/0,cross/IjYhnmH9a-5.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y2/l/0,cross/NsslUOeDyMk.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/UWbvoNJ_GJw.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/JFbe0WWFs2s.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yV/l/0,cross/KQN9gRJBI8O.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yq/l/0,cross/aZz5Abql8Xc.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yz/l/0,cross/gWGld3AAQ2m.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-1635107692233	Marionette	INFO	Stopped listening on port 15440
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yN/l/0,cross/zO-KaRqhF_n.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yK/l/0,cross/r8AChRHrxL5.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yk/l/0,cross/TRoTE4qRPzK.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yg/l/0,cross/ooNa_8vKdLA.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y5/l/0,cross/HIvnLT2U2R_.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yq/l/0,cross/GQQC3w8PgLb.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yL/l/0,cross/DYtlxMKHNXR.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yP/l/0,cross/ew6MRiwP8EC.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/_EbdNj_8GJ2.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yI/l/0,cross/3HH-W9H0OwF.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 64: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yR/l/0,cross/eJgmYIzPYAA.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yv/l/0,cross/n8cJ5JYfQ4D.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y1/l/0,cross/b91K5hCC6bl.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yZ/l/0,cross/-4NyMrAERcS.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/yt/l/0,cross/9lYKr59oMHK.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://static.xx.fbcdn.net/rsrc.php/v3/y5/l/0,cross/JmYTSEzcEzi.css?_nc_x=Ij3Wp8lg5Kz without a browsingContextID set
+1635107632868	Marionette	INFO	Stopped listening on port 15144
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+e\\search.json.mozlz4", (void 0)))
+1635107631232	Marionette	INFO	Listening on port 15647
+1635107631604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635107640704	Marionette	INFO	Stopped listening on port 15647
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635107642534	geckodriver	INFO	Listening on 127.0.0.1:15752
+1635107645606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileQp7pTL"
+1635107645926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileQp7pTL\\search.json.mozlz4", (void 0)))
+1635107647822	Marionette	INFO	Listening on port 15773
+1635107648261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635107674329	Marionette	INFO	Stopped listening on port 15773
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+P\\search.json.mozlz4", (void 0)))
+1635107673060	Marionette	INFO	Listening on port 15968
+1635107673127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635107693335	Marionette	INFO	Stopped listening on port 15968
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile servconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yeran\\AppData\\Local\\Temp\\rust_mozprofileBUcLh8\\search.json.mozlz4", (void 0)))
+1635107694970	Marionette	INFO	Listening on port 16114
+1635107695407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yK/l/en_US/DQMlZMIyZtm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T7BJHQ, line 410: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1635110744678	Marionette	INFO	Stopped listening on port 16114
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 8136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
