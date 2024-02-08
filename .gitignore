@@ -1,3 +1,5 @@
+#browser logs
+geckodriver.log
 
 # Mac
 .DS_Store
